@@ -1,0 +1,38 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_960_720.jpg);
+
+}
+h1{
+    padding: 1rem;
+}
+#container{
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    border: .2rem solid;
+    padding: 3rem auto;
+    margin: 5rem auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://cdn.pixabay.com/photo/2018/02/24/17/56/orchid-3178759_960_720.jpg);
+}
+#birthdate{
+    padding: .5rem;
+    margin: 2rem auto;
+    display: block;
+}
+#check{
+    border-radius: .5rem;
+    padding: .5rem;
+    display: block;
+    margin: 2rem auto;
+}
+#output{
+    display: block;
+    font-size: x-large;
+    font-weight: bolder;
+    padding: 2rem;
+
+}
